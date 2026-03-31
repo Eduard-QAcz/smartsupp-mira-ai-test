@@ -94,5 +94,6 @@ describe('Testovací úkol', function () {
       cy.get('[data-testid="delete-modal-confirm"]').click();
     });
 
+
   });
-});
+}); 
